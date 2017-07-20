@@ -38,9 +38,6 @@
         "pear/pear_exception": "*",
         "wikia/net_socket2": "*"
     },
-    "require-dev": {
-        "phpunit/phpunit": "*"
-    },
     "suggest": {
         "pear/auth_sasl": "Install optionally via your project's composer.json"
     }

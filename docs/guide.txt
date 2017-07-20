@@ -1,3 +1,5 @@
+.. image:: https://travis-ci.org/Wikia/Net_SMTP2.svg?branch=master
+    :target: https://travis-ci.org/Wikia/Net_SMTP2
 ======================
  The Net_SMTP2 Package
 ======================
