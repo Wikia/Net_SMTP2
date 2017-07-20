@@ -36,7 +36,7 @@
     "type": "library",
     "require": {
         "pear/pear_exception": "*",
-        "Wikia/Net_Socket2": "*"
+        "Wikia/net_socket2": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
