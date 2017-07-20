@@ -27,7 +27,7 @@
         "./"
     ],
     "license": "PHP License",
-    "name": "Wikia/net_smtp2",
+    "name": "wikia/net_smtp2",
     "homepage": "http://pear.github.io/Net_SMTP2/",
     "support": {
         "issues": "https://github.com/Wikia/Net_SMTP2/issues",
@@ -36,7 +36,7 @@
     "type": "library",
     "require": {
         "pear/pear_exception": "*",
-        "Wikia/net_socket2": "*"
+        "wikia/net_socket2": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
